@@ -4,6 +4,7 @@ student_version.zip
 student_version/
 venv/
 venv_new/
+.venv
 sessions/session_4/notebooks/model_directory/
 *.ipynb_checkpoints/
 *.pyc
